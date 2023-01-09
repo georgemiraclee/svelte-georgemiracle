@@ -1,0 +1,51 @@
+---
+title: George Miracle 
+description: George Miracle – front-end developer in Indonesia
+firstname: George
+lastname: Miracle
+tagline: Front-end developer
+experiences:
+- date: Dec 2022 – Present
+  role: Front-End Developer
+  place: "[Folkatech](https://folkatech.com/)"
+  type: Internship
+  location: Bandung, Indonesia
+  bullets:
+  - "Skill = HTML CSS, Javascript, PHP, Codeigniter, Bootstrap"
+- date: Nov 2022 – Januari 2022
+  role: Frontend developer
+  place: "[Rakamin Academy](https://rakamin.com/)"
+  location: Jakarta, Indonesia
+  type: Internship
+  bullets:
+  - Skill = Vue.js, Tailwind.css, Vanilla.js
+- date: Jul 2022 – Sep 2022
+  role: Technical Liaison
+  place: "[Puspresnas Kemdikbud](https://pusatprestasinasional.kemdikbud.go.id/)"
+  location: Jakarta, Indonesia
+  type: Seasonal
+  bullets:
+  - FLS2N (Festival Lomba Seni Siswa Nasional) is one of the most prestigious competitions in Indonesia, which dissects in the arts and cultures field.
+  - Administratively selected more than 14.000 participants.
+  - Accomodating participant's technical problems
+educations:
+- date: Jul 2018 – May 2021
+  degree: Natural Science
+  place: SMAN 2 Bandar Lampung
+  location: Lampung, Indonesia
+- date: Aug 2021 – Present
+  degree: Computer Engineering
+  place: Diponegoro University
+  location: Semarang, Indonesia
+skills:
+- CSS libraries and tools including Tailwind CSS, Bootstrap, Sass
+- JavaScript frameworks including Svelte.js, Vue.js, React.js
+- JavaScript meta frameworks including SvelteKit, Nuxt.js, Next.js
+- Build tools like Vite.js, Webpack
+- PHP frameworks including Codeigniter.
+contacts:
+- 'Email: [georgemiracle2019@gmail.com](mailto:georgemiracle2019@gmail.com)'
+- 'Linkedin: [linkedin.com/in/georgemiracle](https://linkedin.com/in/georgemiracle/)'
+- 'Github: [github.com/georgemiraclee](https://github.com/georgemiraclee)'
+- 'Instagram: [@georgemiraclee](https://www.instagram.com/georgemiraclee)'
+- 'Location: Semarang, Indonesia (open to relocation)'
