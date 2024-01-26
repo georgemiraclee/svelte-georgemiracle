@@ -5,6 +5,34 @@ firstname: George
 lastname: Miracle
 tagline: Front-end developer
 experiences:
+- date: Oct 2023 – Dec 2023
+  role: Front-End Developer
+  place: "[Nore Inovasi](https://nore.web.id/)"
+  type: Part Time
+  location: Semarang, Indonesia
+  bullets:
+  - "Skill = Next.Js, Postman API, Material UI, Typescript"
+- date: Aug 2023 – Dec 2023
+  role: Website Developer
+  place: "[Akutahu](https://akutahu.com/)"
+  type: Internship
+  location: Jakarta, Indonesia
+  bullets:
+  - "Skill = HTML CSS, Javascript, PHP, Codeigniter, Bootstrap, MySql"
+- date: Mar 2023 – Jul 2023
+  role: Website Developer
+  place: "[MITGLOS](https://mitglos.com/)"
+  type: "Internship"
+  location: Jakarta, Indonesia
+  bullets:
+  - "Skill = Wordpress, Elementor"
+- date: Mar 2023 – Jun 2023
+  role: Website Developer
+  place: "[Berani Digital ID](https://beranidigital.id/)"
+  type: Internship
+  location: Bandung, Indonesia
+  bullets:
+  - "Skill = HTML CSS, Javascript, PHP, Codeigniter, Bootstrap"
 - date: Dec 2022 – Present
   role: Front-End Developer
   place: "[Folkatech](https://folkatech.com/)"
